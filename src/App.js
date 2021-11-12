@@ -12,6 +12,7 @@ import React, { Component } from 'react';
 import Home from './Home';
 import About from './About';
 import Benchmarks from './Benchmarks';
+import Detail from './Detail';
 //import Contact from './components/Contact';
 // import Error from './components/Error';
 import Navigation from './Navigation';
@@ -28,6 +29,7 @@ class App extends Component {
              <Route path="/" component={Home} exact/>
              <Route path="/about" component={About}/>
              <Route path="/benchmarks" component={Benchmarks}/>
+             <Route path="/detail" component={Detail}/>
             <Route component={Error}/>
            </Switch>
         </div>
