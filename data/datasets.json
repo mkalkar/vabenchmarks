@@ -1,0 +1,119 @@
+[
+    {
+      "Title": "Visualization Publication Data Collection 1990-2015 (and growing)",
+      "Image": "VisualizationPublicationDataCollection.png",
+      "URL": "https://sites.google.com/site/vispubdata/home",
+      "Tag": "Other"
+    },
+    {
+      "Title": "US energy data from the Energy Information Administration",
+      "Image": "USenergydata.png",
+      "URL": "http://www.eia.doe.gov/emeu/aer/petro.html",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Social Science research data from ICPSR (Inter-University consortium for political and social research)",
+      "Image": "SocialScienceResearch.png",
+      "URL": "http://www.icpsr.umich.edu/ICPSR/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Household Travel Survey from the US Department of Transportation",
+      "Image": "householdtravel.png",
+      "URL": "http://nhts.ornl.gov/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Statistical benchmark on the World Development Indicators 2009 that helps measure the progress of development from the World Bank",
+      "Image": "worlddevelopmentindicators.png",
+      "URL": "http://www.worldbank.org/data",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Variety of data on all UN contries from UNdata",
+      "Image": "UNdata.png",
+      "URL": "http://data.un.org/Default.aspx",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Crime data includes crime statistics from Indianapolis",
+      "Image": "indianapolisCrime.png",
+      "URL": "http://www.spotcrime.com/in/indianapolis",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Various datasets used in the DataExpo contest of the Graphics Section and the Computing Section of the Joint Statistical Meetings",
+      "Image": "DataExpoContest.png",
+      "URL": "http://stat-computing.org/dataexpo/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Google Public Data",
+      "Image": "googlePublicData.png",
+      "URL": "http://www.google.com/publicdata/directory",
+      "Tag": "Other"
+    },
+    {
+      "Title": "More free shapefile maps",
+      "Image": "shapefileMaps.png",
+      "URL": "http://www.statsilk.com/maps/download-free-shapefile-maps",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Pete Warden, Data Source Handbook, O'Reilly Media",
+      "Image": "dataSourceHandbook.png",
+      "URL": "http://petewarden.typepad.com/searchbrowser/2011/01/discover-public-data-with-the-data-source-handbook.html",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Congressional Data Index",
+      "Image": "congressionalDataIndex.png",
+      "URL": "http://web.mit.edu/17.251/www/data_page.html",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Socrata",
+      "Image": "socrata.png",
+      "URL": "http://www.socrata.com/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Data",
+      "Image": "unknownData.png",
+      "URL": "http://www.data.gov/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "San Francisco Data",
+      "Image": "sanfrancisoData.png",
+      "URL": "http://www.datasf.org/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "District of Columbia Data Catalog",
+      "Image": "openDataDC.png",
+      "URL": "http://data.octo.dc.gov/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Infochimps",
+      "Image": "infoChimps.png",
+      "URL": "http://www.infochimps.org/",
+      "Tag": "Other"
+    },
+    {
+      "Title": "Statical information shared by European Union",
+      "Image": "eurostat.png",
+      "URL": "http://ec.europa.eu/eurostat",
+      "Tag": "Other"
+    },
+    {
+      "Title": "OECD",
+      "Image": "OECD.png",
+      "URL": "http://stats.oecd.org/",
+      "Tag": "Other"
+    }
+
+
+
+  ]

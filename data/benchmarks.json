@@ -1,0 +1,737 @@
+[
+  {
+    "Year": "2020",
+    "Title": "VAST Challenge 2020",
+    "Tag" : "VAST",
+    "Challenges":[{
+        "Title" : "Grand Challenge",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "Center for Global Cyber Strategy (CGCS) researchers have used the data donated by the white hat groups to create anonymized profiles of the groups.One such profile has been identified by CGCS sociopsychologists as most likely to resemble the structure of the group who accidentally caused this internet outage. You have been asked to examine CGCS records and identify those groups who most closely resemble the identified profile.",
+        "ReadMoreDescription": "https://vast-challenge.github.io/2020/MC1.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%201/dataset/MC1.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%201/solution/VAST_Challenge_2020_Solution_Guides.zip",
+        "Image": "mini12020.png",
+        "Year": "2020"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "With your help, the Center for Global Cyber Strategy (CGCS) searched the vast graph of offline records and narrowed its list of possible groups involved in the accidental cyber event. Further analysis of the cyber event has given a strong indication that a subgroup of eight individuals were behind the bug. The CGCS has received a tip that this group rarely meets in person and instead they use a special itema totemas a secret signal of their affiliation. This item is unremarkable to those who are not part of the group; it could easily be confused for a free item handed out at a conference. The CGCS gathered all records associated with the group from their offline archives including text and photos that potential group members posted on the Y*INT social media platform. Investigators at the CGCS need your help analyzing the contents of those records to look for clues to the identity of the eight individuals.",
+        "ReadMoreDescription": "https://vast-challenge.github.io/2020/MC2.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%202/dataset/MC2.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%202/solution/VAST_Challenge_2020_Solution_Guides.zip",
+        "Image": "mini22020.png",
+        "Year": "2020"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description": "This global outage event has raised awareness for the need to be able to assemble a rapid response team in the case of a future outage event. The white hat community recognizes that serious delays result when CGCS has to go through a complex process to respond to a future event. The white hat community decides to provide CGCS with much more information about their individual expertise, contact information, available tools, and any other information they think could be useful. They want CGCS to be able to search this network and quickly assemble a set of superstars with complementary skills who can be part of an emergency response team. CGCSs current visual analytics environment supports basic situation awareness and provides a set of simple tools to help them see patterns in individual data sets. However, the existing system will not support the new data that the white hat community is providing. CGCS recognizes that they need a new visual analytics environment, and they would like you to design it. CGCS wants this environment to support two tasks: * High level situation awareness of issues with the global internet, including reports of the emergence of new network attacks, reports of significant network failures, and activities of the white hat community. * Ability to assemble a team from across the white hat community to respond to new events. The CGCS wants to be able to identify one or more experts experienced in a particular issue using all of the data available to them, including resumes, news article mentions, publications, and self-reported expertise. If no experts are found, CGCS may need to infer which of their experts they should ask for ideas about who to contact. In some cases, a full team may have to be assembled, bringing together multiple people with complementary skills who will be able to work well together. CGCS wants to incorporate as much machine learning into the system as possible, but they want to have insight into not only what the machine learning is doing, but what uncertainties exist in both the data and the algorithms. However, CGCS personnel are not experts in machine learning, so they want to have explanations that make sense to them. Your objective is to design for the new CGCS situation awareness and team development environment, illustrating how visual analytics can support CGCS tasks.",
+        "ReadMoreDescription": "https://vast-challenge.github.io/2020/MC3.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%203/dataset/MC3.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%203/solution/VAST_Challenge_2020_Solution_Guides.zip",
+        "Image": "mini12020.png",
+        "Year": "2020"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None",
+        "Year": "2020"
+      }
+    ]
+  },
+  {
+    "Year": "2019",
+    "Title": "VAST Challenge 2019",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description":"Overwhelmed by the scale of the disaster, city of Himark officials are looking for help to build a more complete understanding of the situation on the ground. They have access to multiple data sources, but each on its own is an incomplete view into the situation. Fuse the data in the mini challenges to give officials a fuller situational awareness than is possible with any individual data sources. Officials are especially interested in understanding how the uncertainty in
+      each source interacts with the others. Can sources reinforce or refute findings in other sources? Does combining sources bring the situation into clearer view or just increase confusion? The citizens of St. Himark are trying to assist their government by providing more information than official channels would be able to on their own, but you must help fuse those sources into a form that allows officials to do their job as efficiently and with the greatest impact possible.",
+      "ReadMoreDescription": "https://vast-challenge.github.io/2019/GC.html",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Grand%20Challenge/dataset/MC3_2018.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Grand%20Challenge/solution/VAST_Challenge_2019_Solution_Guide.zip",
+      "Image":"grand2019.jpeg",
+      "Year": "2019"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "St. Himark has been hit by an earthquake, leaving officials scrambling to determine the extent of the damage and dispatch limited resources to the areas in most need. They quickly receive seismic readings and use those for an initial deployment but realize they need more information to make sure they have a realistic understanding of the true conditions throughout the city.
+      In a prescient move of community engagement, the city had released a new damage reporting mobile application shortly before the earthquake. This app allows citizens to provide more timely information to the city to help them understand damage and prioritize their response. In this mini-challenge, use app responses in conjunction with shake maps of the earthquake strength to identify areas of concern and advise emergency planners. Note: the shake maps are from April 6 and April 8 respectively.With emergency services stretched thin, officials are relying on citizens to provide them with much needed information about the effects of the quake to help focus recovery efforts.
+      By combining seismic readings of the quake, responses from the app, and background knowledge of the city, help the city triage their efforts for rescue and recovery.",
+      "ReadMoreDescription": "https://vast-challenge.github.io/2019/MC1.html",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%201/dataset/MC1.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%201/solution/VAST_Challenge_2019_Solution_Guide.zip",
+      "Image":"mini12019.jpeg",
+      "Year": "2019"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "One of St. Himark's largest employers is the Always Safe nuclear power plant. The pride of the city, it produces power for St. Himark's needs and exports the excess to the mainland providing a steady revenue stream. However, the plant was not compliant with international standards when it was constructed and is now aging. As part of its outreach to the broader community, Always Safe agreed to provide funding for a set of carefully calibrated professional radiation monitors at fixed locations throughout the city. Additionally, a group of citizen scientists led by the members of the Himark Science Society started an education initiative to build and deploy lower cost homemade sensors, which people can attach to their cars. The sensors upload data to the web by connecting through the user's cell phone. The goal of the project was to engage the community and demonstrate that the nuclear plant's operations were not significantly changing the region's natural background levels of radiation.When an earthquake strikes St. Himark, the nuclear power plant suffers damage resulting in a leak of radioactive contamination. Further, a coolant leak sprayed employees' cars and contaminated them at varying levels. Now, the city's government and emergency management officials are trying to understand if there is a risk to the public while also responding to other emerging crises related to the earthquake as well as satisfying the public's concern over radiation.",
+      "ReadMoreDescription": "https://vast-challenge.github.io/2019/MC2.html",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%202/dataset/MC2.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%202/solution/VAST_Challenge_2019_Solution_Guide.zip",
+      "Image":"mini22019.jpeg",
+      "Year": "2019"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "Seismic and survey data are useful for capturing the objective damage that the earthquake has caused St. Himark. However, this data has limitations. First, official surveys are time consuming and do not stay current in a rapidly changing situation. Second, they don't establish how citizens are reacting to the current crisis. Third, they are often insufficiently granular, providing little insight into differences between neighborhoods. In other words, the seismic and survey data do not provide an up-to-date view of the structural and humanitarian impact caused by the earthquake on a neighborhood-by-neighborhood basis. The City has concluded that this knowledge is necessary to determine where to allocate emergency resources.
+      City Officials have identified a subset of Y*INT, a community-based social media platform, as a potential source for revealing the current state of St. Himark's neighborhoods and people. Knowing that you are skilled in visual analytics, the City has asked you to analyze Y*INT messages in order to determine the appropriate actions it must take in order to assist the community in this disaster.",
+      "ReadMoreDescription": "https://vast-challenge.github.io/2019/MC3.html",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%203/dataset/MC3.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202019/challenges/Mini-Challenge%203/solution/VAST_Challenge_2019_Solution_Guide.zip",
+      "Image":"mini32019.jpeg",
+      "Year": "2019"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None",
+      "Year": "2019"
+    }
+    ]
+  },
+  {
+    "Year": "2018",
+    "Title": "VAST Challenge 2018",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "Claims that the Rose-Crested Blue Pipit are healthy and vibrant across the whole preserve are a key component of Kasios' position against the work done by grad student Mitch from last year. Other data sources are needed to further investigate the birds' situation. Perhaps these bird call recordings could provide more insight into the real situation? Blending machine learning and visual analytics may be a powerful combination for this mini-challenge.",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2018+MC1",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%201/dataset/MC1_2018.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%201/solution/VAST_Challenge_2018_Solution_Guide.zip",
+      "Image":"mini12018.jpeg",
+      "Year": "2018"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "According to Kasios, those funny colored satellite images from the Preserve only prove that it is a diverse, changing habitat and that the peculiar images Mitch identified are not conclusive evidence of any wrongdoing. They argue that the other industries should be taking as good care of the area as Kasios corporate and its volunteer squads do year round. To show their goodwill, Kasios reports that they recently donated staff time and money to refurbish ranger stations and campgrounds across the Preserve! Does Kasios have a case here? Perhaps some new visualization of river contaminants and analyses within the Preserve may help illustrate that the new Kasios story doesn't hold water (or does it?).",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2018+MC2",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%202/dataset/MC2_2018.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%202/solution/VAST_Challenge_2018_Solution_Guide.zip",
+      "Image":"mini22018.jpeg",
+      "Year": "2018"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "An unexpected source suggests extent of the Kasios' involvement in illicit activities may be much broader than just Mistford and the Wildlife Preserve. Visualization and analysis of some challenging data may provide further insights on the scope of their activities. This challenge may prove to be a stretch task for all VAST Challenge participants!",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2018+MC3",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%203/dataset/MC3_2018.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202018/challenges/Mini-Challenge%203/solution/VAST_Challenge_2018_Solution_Guide.zip",
+      "Image":"mini32018.jpeg",
+      "Year": "2018"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+    }
+    ]
+  },
+  {
+    "Year": "2017",
+    "Title": "VAST Challenge 2017",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description" : "Mistford is a mid-size city is located to the southwest of a large nature preserve. The city has a small industrial area with four light-manufacturing endeavors. Mitch Vogel is a post-doc student studying ornithology at Mistford College and has been discovering signs that the number of nesting pairs of the Rose-Crested Blue Pipit, a popular local bird due to its attractive plumage and pleasant songs, is decreasing! The decrease is sufficiently significant that the Pangera Ornithology Conservation Society is sponsoring Mitch to undertake additional studies to identify the possible reasons. Mitch is gaining access to several datasets that may help him in his work, and he has asked you (and your colleagues) as experts in visual analytics to help him analyze these datasets.
+      Mitch realizes that explorations into each of these three areas (covered by the mini-challenges) will reveal important, enlightening information. However, could there be relationships among discoveries made across two or even all of the investigations that could reveal even more about what is happening across the nature preserve and how it is happening. Mitch remembers that you mentioned to him how important it is to analyze not only what is happening, but the entire range of who-what-where-why-when- and -how. This understanding will enable him to pursue positive steps in helping to save the Rose-Crested Blue Pipit.",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2017+Grand+Challenge",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Grand%20Challenge/dataset/GCData.zip",
+      "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Grand%20Challenge/solution/VAST%20Challenge%202017%20GC%20Solution%20Final.pdf",
+      "Image":"grand2017.jpeg",
+      "Year": "2017"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "Mistford is a mid-size city is located to the southwest of a large nature preserve. The city has a small industrial area with four light-manufacturing endeavors. Mitch Vogel is a post-doc student studying ornithology at Mistford College and has been discovering signs that the number of nesting pairs of the Rose-Crested Blue Pipit, a popular local bird due to its attractive plumage and pleasant songs, is decreasing! The decrease is sufficiently significant that the Pangera Ornithology Conservation Society is sponsoring Mitch to undertake additional studies to identify the possible reasons. Mitch is gaining access to several datasets that may help him in his work, and he has asked you (and your colleagues) as experts in visual analytics to help him analyze these datasets.
+      The Boonsong Lekagul Nature Preserve is used by local residents and tourists for day-trips, overnight camping or sometimes just passing through to access main thoroughfares on the opposite sides of the preserve. The entrance booths of the preserve are monitored in order to generate revenue as well as monitor usage. Vehicles entering and exiting the preserve must pay a fee based on their number of axles (personal auto, recreational trailer, semi-trailer, etc.). This generates a data stream with entry/exit timestamps and vehicle type. There are also other locations in the part that register traffic passing through. While hiking through the various parts of the preserve, Mitch has noticed some odd behaviors of vehicles that he doesn't think are consistent with the kinds of park visitors he would expect. If there were some way that Mitch could analyze the behaviors of vehicles through the park over time, this may assist him in his investigations.",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2017+MC1",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%201/dataset/MC1Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%201/solution/VAST%20Challenge%202017%20MC1%20Solution%20Final.pdf",
+      "Image":"mini12017.jpeg",
+      "Year": "2017"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "Mistford is a mid-size city is located to the southwest of a large nature preserve. The city has a small industrial area with four light-manufacturing endeavors. Mitch Vogel is a post-doc student studying ornithology at Mistford College and has been discovering signs that the number of nesting pairs of the Rose-Crested Blue Pipit, a popular local bird due to its attractive plumage and pleasant songs, is decreasing! The decrease is sufficiently significant that the Pangera Ornithology Conservation Society is sponsoring Mitch to undertake additional studies to identify the possible reasons. Mitch is gaining access to several datasets that may help him in his work, and he has asked you (and your colleagues) as experts in visual analytics to help him analyze these datasets.
+      The four factories in the industrial area are subjected to higher-than-usual environmental assessment, due to their proximity to both the city and the preserve. Gaseous effluent data from several sampling stations has been collected over several months, along with meteorological data (wind speed and direction), that could help Mitch understand what impact these factories may be having on the Rose-Crested Blue Pipit. These factories are supposed to be quite compliant with recent years' environmental regulations, but Mitch has his doubts that the actual data has been closely reviewed. Could visual analytics help him understand the real situation?",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2017+MC2",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%202/dataset/MC2Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%202/solution/VAST%20Challenge%202017%20MC2%20Solution%20Final.pdf",
+      "Image":"mini22017.jpeg",
+      "Year": "2017"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "Mistford is a mid-size city is located to the southwest of a large nature preserve. The city has a small industrial area with four light-manufacturing endeavors. Mitch Vogel is a post-doc student studying ornithology at Mistford College and has been discovering signs that the number of nesting pairs of the Rose-Crested Blue Pipit, a popular local bird due to its attractive plumage and pleasant songs, is decreasing! The decrease is sufficiently significant that the Pangera Ornithology Conservation Society is sponsoring Mitch to undertake additional studies to identify the possible reasons. Mitch is gaining access to several datasets that may help him in his work, and he has asked you (and your colleagues) as experts in visual analytics to help him analyze these datasets.
+
+      As Mitch works independently, he realizes that he cannot continually visit all areas of the preserve to inspect for environmental impacts as well as he would like to. He realizes that his analysis would be incomplete without thorough surveillance and knowledge of the preserve health over time. Fortunately, Mitch has acquired data from some commercial multi-spectral imagers that have been routinely covering the nature preserve every few weeks. Mitch believes that a visual analytics approach can help him achieve an understanding of the preserve health and alert him to possible conditions that may be impacting his birds.",
+      "ReadMoreDescription": "http://vacommunity.org/VAST+Challenge+2017+MC3",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%203/dataset/MC3Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202017/challenges/Mini-Challenge%203/solution/VAST%20Challenge%202017%20MC3%20Solution%20Final.pdf",
+      "Image":"mini32017.jpeg",
+      "Year": "2017"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None",
+      "Year": "2017"
+    }
+    ]
+  },
+  {
+    "Year": "2016",
+    "Title": "VAST Challenge 2016",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "In this mini-challenge, we are looking for your creative designs for an environment that supports investigative analysis on streaming data.
+      The Euybia Island Resort and Conference Center (or Euybia Island) is a convention resort hotel and casino off the coast of the fictional island of Kronos. Euybia Island has a large physical security operations center that maintains safety and security of its patrons. The operations center also monitors the casino for signs of theft and fraud. In this operations center, investigators analyze streaming data to understand data in near real-time.",
+      "ReadMoreDescription": "http://vacommunity.org/2016+VAST+Challenge%3A+MC1",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%201/dataset/MC1%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%201/solution/VAST%20Challenge%202016%20Solution%20Guide%20MC1.zip"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "As an expert in visual analytics, you have been hired to help GAStech understand its operations data. In this challenge, you are given two weeks of building and prox sensor data. Can you use visual analytics to identify typical patterns of and issues of concern?
+      Mini-Challenge 2 provides a two-week set of static data for you to analyze, covering May 31 to June 13, 2016.",
+      "ReadMoreDescription": "http://vacommunity.org/2016+VAST+Challenge%3A+MC2",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%202/dataset/MC2%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%202/solution/VAST%20Challenge%202016%20Solution%20Guide%20MC2-3.zip"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "GAStech does not have a dedicated team analyzing its operational data 24 hours a day. An employee is assigned to keep an eye on the data and address issues during day shift, but he is frequently called away or distracted by other duties. GAStech is looking for a visual analytics solution that will allow someone to come up to speed on current events and trends, as well as to understand recent events that took place while the employee steps away, either for a few minutes or for a long weekend.",
+      "ReadMoreDescription": "http://vacommunity.org/2016+VAST+Challenge%3A+MC2",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%203/dataset/MC3%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202016/challenges/Mini-Challenge%203/solution/VAST%20Challenge%202016%20Solution%20Guide%20MC2-3"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+    }
+    ]
+  },
+  {
+    "Year": "2015",
+    "Title": "VAST Challenge 2015",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description" : "The Grand Challenge is a direct synthesis of MC1 and MC2.",
+      "ReadMoreDescription": "",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Grand%20Challenge/dataset/GC%20Data.zip",
+      "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Grand%20Challenge/solution/VAST%20Challenge%202015%20Solution%20Guide.zip"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "You have access to movement tracking information for all of the paying park visitors over the three days of the Scott Jones celebration. This data contains many patterns that are useful for planning park operations. On this particular weekend a crime occurred and the data likely contains information pertinent to that crime.
+      Use visual analytics to analyze the available data and develop responses to the questions below. In addition, prepare a video that shows how you used visual analytics to solve this challenge. We encourage novel visual representations and analytic approaches!",
+      "ReadMoreDescription": "",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Mini-Challenge%201/dataset/MC1%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Mini-Challenge%201/solution/VAST%20Challenge%202015%20Solution%20Guide.zip"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "You have access to movement tracking information for all of the paying park visitors over the three days of the Scott Jones celebration. This data contains many patterns that are useful for planning park operations. On this particular weekend a crime occurred and the data likely contains information pertinent to that crime.
+      Use visual analytics to analyze the available data and develop responses to the questions below. In addition, prepare a video that shows how you used visual analytics to solve this challenge. We encourage novel visual representations and analytic approaches!",
+      "ReadMoreDescription": "",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Mini-Challenge%202/dataset/MC2%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202015/challenges/Mini-Challenge%202/solution/VAST%20Challenge%202015%20Solution%20Guide.zip"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution" : "None"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+    }
+    ]
+  },
+  {
+    "Year": "2014",
+    "Title": "VAST Challenge 2014",
+    "Tag" : "VAST",
+    "Challenges":[ {
+      "Title" : "Grand Challenge",
+      "Description" : "THE KRONOS INCIDENT - OVERALL SCENARIO and BACKGROUND
+      Note: This scenario and all the people, places, groups, technologies, contained therein are fictitious. Any resemblance to real people, places, groups, or technologies is purely coincidental.
+      In the roughly twenty years that Tethys-based GAStech has been operating a natural gas production site in the island country of Kronos, it has produced remarkable profits and developed strong relationships with the government of Kronos. However, GAStech has not been as successful in demonstrating environmental stewardship.
+      In January, 2014, the leaders of GAStech are celebrating their new-found fortune as a result of the initial public offering of their very successful company. In the midst of this celebration, several employees of GAStech go missing. An organization known as the Protectors of Kronos (POK) is suspected in the disappearance, but things may not be what they seem.
+      As an expert in visual analytics, you are called in to help law enforcement from Kronos and Tethys assess the situation and figure out where the missing employees are and how to get them home again. Time is of the essence.
+      In the Grand Challenge, you are asked to put all the pieces together. Who disappeared? Who was responsible for the disappearance? And what were the underlying motivations for the disappearance?",
+      "ReadMoreDescription": "http://www.vacommunity.org/VAST+Challenge+2014%3A+Grand+Challenge",
+      "DataSet": "Refer to MC1-MC3 for 2014.",
+      "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/Grand%20Challenge%202014/solution/VAST%20Challenge%202014%20Grand%20Challenge%20Reviewers%20Guide%20Final.docx",
+      "Image":"grand2014.jpeg",
+      "Year": "2016"
+      },
+      {
+      "Title" : "Mini-Challenge 1",
+      "Description": "Mini-Challenge 1 focuses on the disappearance itself. As an analyst, you have a set of current and historical news reports at your disposal, as well as resumes of numerous GAStech employees and email headers from two weeks of internal GAStech company email. You are being counted on to bring law enforcement up to date on the current organization of the POK and how that organization has changed over time, as well as to characterize the events surrounding the disappearance.",
+      "ReadMoreDescription": "http://www.vacommunity.org/VAST+Challenge+2014",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC1%20-%20Disappearance%20at%20GASTech/dataset/MC1%20Data.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC1%20-%20Disappearance%20at%20GASTech/solution/VAST%20Challenge%202014%20Mini-Challenge%201%20Reviewers%20Guide%20Final.docx",
+      "Image":"mini12014.jpeg",
+      "Year": "2016"
+      },
+      {
+      "Title" : "Mini-Challenge 2",
+      "Description": "Mini-Challenge 2 asks you to analyze movement and tracking data. GAStech provides many of their employees with company cars for their personal and professional use, but unbeknownst to the employees, the cars are equipped with GPS tracking devices. You are given tracking data for the two weeks leading up to the disappearance, as well as credit card transaction and loyalty card usage data. From this data, can you identify suspicious behaviors? Can you identify people and locations that law enforcement should investigate?",
+      "ReadMoreDescription": "http://www.vacommunity.org/VAST+Challenge+2014",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC2%20-%20Patterns%20of%20Life%20Analysis/dataset/MC2%20Dataset.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC2%20-%20Patterns%20of%20Life%20Analysis/solution/VAST%20Challenge%202014%20Mini-Challenge%202%20Reviewers%20Guide%20Final.docx",
+      "Image":"mini22014.png",
+      "Year": "2016"
+      },
+      {
+      "Title" : "Mini-Challenge 3",
+      "Description": "Mini-Challenge 3 poses a streaming analysis challenge. You will have access to real-time feeds of microblogs and emergency calls. Can you monitor this stream to identify what is happening in the city of Abila and find clues into the disappearance of the GASTech employees?",
+      "ReadMoreDescription": "http://www.vacommunity.org/VAST+Challenge+2014",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC3%20-%20Real-Time,%20Streaming%20Social%20Media/dataset/VASTChal2014MC3-Rev1-20140430.zip",
+      "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202014/challenges/MC3%20-%20Real-Time,%20Streaming%20Social%20Media/solution/MC3Solution.zip",
+      "Image":"mini32014.jpeg",
+      "Year": "2016"
+    },
+    {
+      "Title" : "Mini-Challenge 4",
+      "Description" : "None",
+      "ReadMoreDescription": "None",
+      "DataSet": "None",
+      "Solution": "None"
+    }
+    ]
+  },
+  {
+    "Year": "2013",
+    "Title": "VAST Challenge 2013",
+    "Tag" : "VAST",
+    "Challenges":[{
+        "Title" : "Grand Challenge",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "VAST Challenge 2013 Mini-Challenge 1 concerns predictive visual analytics. It is decidedly different from previous VAST challenges - it will be continuous and iterative, it will have reviewing and recognition presented from now until the final judging session, contestants will be required to register to participate and login to this site to get data and make submissions. Results will be posted on this website as we go. Contestants can join at any time - there will be awards for long term successes at predictions, but there will also be plenty of interim recognition.
+
+        The theme is movie success at the box office and in viewer ratings. Participants will be asked to predict how well a set of movies will do at the box office in terms of box office take (ticket sales) and how well they will do in the eyes of the viewers (the movies' viewer ratings) for their opening weekend in the U.S. A key feature of the challenge, though, is that contestants will use visual analytics to support their movie analysis and show us how it was used in their analytic processes. So, while the two numeric predictions would be possible to provide by plugging lots of data into a model, we will ask some additional questions to go along with the predictions that will require a human-in-the-loop and hopefully some outstanding visualizations.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge2013/MC1/BoxOfficeVAST-ChallengeDescription.pdf",
+        "DataSet": "No Dataset available",
+        "Solution" : "No Solution available"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "A company called Big Enterprise has hired you to create an innovative visual design that will become the foundation for their future situation awareness display that shows the state of their entire computer network.
+
+        The computer network is global and consists of several hundred thousand computers. The network is expected to grow over time. The company wants to be able to keep track of everything important on the network in a single integrated picture.
+
+        The new situation awareness display will ultimately become a large display in the operations control room. The display will be used by members of the network operations staff. When you visit the control room to learn about the current operations, you see many computer screens, but the information being displayed is difficult to understand.
+
+        Your goal is to design the visualization for the large computer display that will provide operators with situation awareness for the Big Enterprise network.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge2013/MC2/MC2-ChallengeDescription.pdf",
+        "DataSet": "No Dataset available",
+        "Solution" : "No Solution available"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description": "Background Big Marketing is an international marketing company employing a large staff of marketing executives who create and manage advertising and public relations campaigns for clients. Big Marketing has an internet research staff that stays current on the latest business, consumer and entertainment trends, searches for new markets, and comes up with ways to make Big Marketing's clients stand out from the crowd. In addition, Big Marketing operates web sites for selected clients.
+
+        You work as the Big Marketing computer network manager, ensuring that Big Marketing networks are up and running for both the Internet-facing web services and the internal workforce. This responsibility encompasses the full range of maintaining current operations, planning for future needs, and securing and defending network assets against threats.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge2013/MC3/MC3-ChallengeDescription.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202013/challenges/MC3%20-%20Big%20Marketing/dataset/MC3dataset.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202013/challenges/MC3%20-%20Big%20Marketing/solution/MC3solution.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "2012",
+    "Title": "VAST Challenge 2012",
+    "Tag" : "VAST",
+    "Challenges":[{
+        "Title" : "Grand Challenge",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "In the 1st mini challenge the imaginary Bank of Money needs your best situation awareness visualization to understand the health of it global network. But how do you visualize a million computers in a way that you can perceive its state and problems?",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge2012/TaskDescriptions.htm",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202012/challenges/MC1%20-%20Bank%20of%20Money%20Enterprise%20Cyber/dataset/Bank%20of%20Money%20Enterprise%20Cyber.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202012/challenges/MC1%20-%20Bank%20of%20Money%20Enterprise%20Cyber/solution/Bank%20of%20Money%20solution.docx"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "During a time period that is NOT overlapping with MC 1, a Region within the Bank of Money is experiencing operational difficulties. This becomes a challenge for the operations staff, particularly as they attempt to deploy their limited number of skilled administrators to address issues occurring in the enterprise.
+
+        You will be provided with Firewall and IDS logs from one of the BOM networks of approximately 5000 machines. These are very similar to the Firewall and IDS logs you worked on during the VAST 2011 MC 2, and so the tools you used there will come in handy for this mini-challenge (and reuse is encouraged). You will also be provided with a description of the network to guide your investigation.,
+        Your goal is to design the visualization for the large computer display that will provide operators with situation awareness for the Big Enterprise network.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge2012/TaskDescriptions.htm",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202012/challenges/MC2%20-%20Bank%20of%20Money%20regional%20Network%20Op/dataset/Bank%20of%20Money%20regional%20Network%20Op.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202012/challenges/MC2%20-%20Bank%20of%20Money%20regional%20Network%20Op/solution/Mini%202%20Bank%20of%20Money%20regional%20Network%20Op.docx"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "2010",
+    "Title": "VAST Challenge 2010",
+    "Tag" : "VAST",
+    "Challenges":[
+    {
+        "Title" : "Grand Challenge",
+        "Description" : "In Mini-Challenge 1, you investigated illegal arms deals that involved several countries.
+        In Mini-Challenge 2, you investigated a pandemic outbreak of a virus across several cities in the world.
+        In Mini-Challenge 3, you investigated the source of a virus strain taken from a victim of the pandemic.
+        For the Grand Challenge, you are charged with investigating any possible linkage between the illegal arms dealing and the pandemic outbreak.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/Taskdescription-of-all2010challenges-printfromoriginalwebsiteofchallenge.pdf",
+        "DataSet": "Please download the 3 mini challenge datasets separately",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/Grand%20Challenge%202010/solution/VAST2010Solution-v7-Aug10-2010.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "You have been charged with providing a forensic analysis of illegal arms dealing that may have taken place last year.
+        The following contains intelligence reports and material drawn from other sources that will be of concern to you in your analysis. The information begins in 2008, and runs through early 2009.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/Taskdescription-of-all2010challenges-printfromoriginalwebsiteofchallenge.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC1%20-%20Investigations%20into%20Arms%20Dealing/dataset/VAST2010-Mini-1-Data%20Files-04-02.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC1%20-%20Investigations%20into%20Arms%20Dealing/solution/VAST2010Solution-v7-Aug10-2010.zip"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "There was a major epidemic outbreak that spanned several cities across the world in 2009. The disease tended to move fast and be fairly difficult to combat. Health officials are seeking help to analyze the illness across these countries to help characterize the spread of the disease.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/Taskdescription-of-all2010challenges-printfromoriginalwebsiteofchallenge.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC2%20-%20Characterization%20of%20Pandemic%20Spread/dataset/VAST2010-Mini-2-Data%20Files-v2-04-03.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC2%20-%20Characterization%20of%20Pandemic%20Spread/solution/VAST2010Solution-v7-Aug10-2010.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "This case concerns a patient, identified by Interpol as Nicolai Kuryakin, admitted to a hospital in Paris after being removed from a flight to Moscow due to illness. The patient, now deceased, was admitted with an unidentified illness and later developed symptoms consistent with Drafa Fever. An autopsy confirmed the presence of the Drafa virus in the patients bloodstream.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/Taskdescription-of-all2010challenges-printfromoriginalwebsiteofchallenge.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC3%20-%20Tracing%20the%20Mutations%20of%20a%20Disease/dataset/VAST2010-Mini-3-Data%20Files-04-09.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202010/challenges/MC3%20-%20Tracing%20the%20Mutations%20of%20a%20Disease/solution/VAST2010Solution-v7-Aug10-2010.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "2009",
+    "Title": "VAST Challenge 2009",
+    "Tag" : "VAST",
+    "Challenges":[
+    {
+        "Title" : "Grand Challenge",
+        "Description" : "The 2009 VAST Challenge consists of three Mini Challenges and a Grand Challenge. To successfully respond to the Grand Challenge, you need to tie together all data sets with an overall scenario description using data elements from each of the four mini challenges.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/Task%20Description-copyoforiginalpagefrom2009website.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/Misc%20Files/datasets/VASTChallenge2009-March%2025-WITHOUTVIDEO.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/Grand%20Challenge%202009/solution/Grand%20Challenge%202009_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "An embassy employee is suspected of sending data to an outside criminal organization from the Embassy.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/Task%20Description-copyoforiginalpagefrom2009website.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/Misc%20Files/datasets/VASTChallenge2009-March%2025-WITHOUTVIDEO.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/MC1%20-%20Badge%20and%20Network%20Traffic/solution/Badge%20and%20Network%20Traffic_sol.zip"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "Embassy employees are known to have used the social networking/micro-blogging tool, Flitter, to communicate with colleagues and friends. The Flitter network may provide a connection to a criminal ring that may have recruited an employee. We have been provided with Flitter data that we may analyze.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/Task%20Description-copyoforiginalpagefrom2009website.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/Misc%20Files/datasets/VASTChallenge2009-March%2025-WITHOUTVIDEO.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/MC2%20-%20Social%20Network%20and%20Geospatial/solution/Social%20Network%20and%20Geospatial_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "Identify any events of potential counterintelligence/espionage interest in the video.",
+        "ReadMoreDescription": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/Task%20Description-copyoforiginalpagefrom2009website.pdf",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/Misc%20Files/datasets/VASTChallenge2009-M3-VIDEOPART1.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202009/challenges/MC3%20-%20Video%20Analysis/solution/Video%20Analysis_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "2008",
+    "Title": "VAST Challenge 2008",
+    "Tag" : "VAST",
+    "Challenges":[
+    {
+        "Title" : "Grand Challenge",
+        "Description" : "For the Grand Challenge, you will need to combine data from the four mini-challenges and the introductory Wiki pages to provide an analysis of the activities of the Paraiso movement. Assumptions must be supported by evidence and specify in which dataset you found it.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge08/tasks.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/Grand%20Challenge%202008/dataset/VASTchallenge08-20080315-Deinosuchus.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/Grand%20Challenge%202008/solution/Grand%20Challenge%202008_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "The Paraiso movement is controversial and is having considerable social impact in a specific area of the world. We have extracted a segment of the Paraiso (the movement) Wikipedia edits page. Please note this is not the Paraiso Manifesto Wiki page which is part of the background materials, but a related different page. Please use visual analytics to describe the social relationships of the editors (those that have edited/modified the Wikipedia page) as they are reflected in these files.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge08/tasks.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC1%20-%20Wiki%20Editors/dataset/VASTchallenge08-20080315-Deinosuchus.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC1%20-%20Wiki%20Editors/solution/Wiki%20Editors_sol.zip"
+      },
+        {
+        "Title": "Mini-Challenge 2",
+        "Description": "This data comprises records dealing with the mass movement of persons departing Isla Del Sueño on boats for the United States during 2005 - 2007. This activity was precipitated by the Isla Del Sueño government crackdown on the Paraiso social and religious movement which had been gaining popularity there. The dataset includes not only interdiction records collected by the United States Coast Guard (i.e. arrests at sea), but also information from other sources about illegal landings on shore.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge08/tasks.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC2%20-%20Migrant%20Boats/dataset/VASTchallenge08-20080315-Deinosuchus.zip",
+        "Solution" : "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC2%20-%20Migrant%20Boats/solution/Migrant%20Boats_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "A set of cell phone call records from Isla Del Sueño over a ten-day period in June 2006 was narrowed down to about 400 unique cell phones during this period. The records provide critical information about the Catalano social network structure. Please use visual analytic approaches to characterize the social network structure.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge08/tasks.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC3%20-%20Cell%20Phone%20Calls/dataset/VASTchallenge08-20080315-Deinosuchus.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC3%20-%20Cell%20Phone%20Calls/solution/Cell%20Phone%20Calls_sol.zip"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "In August 2007, a small improvised explosive device was set off at a Miami, Florida Department of Health (DOH) building, resulting in casualties and moderate damage. This DOH branch has recently been involved in conflicts with local Paraiso religious groups over the attempts by DOH to provide medical care to Paraiso children in public schools and other public facilities. The Paraiso religion is a growing movement in Florida and other southern states. The Paraiso movement is steadfastly opposed to state-administered health care, insisting all health care must be provided at home by the family.",
+        "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTchallenge08/tasks.html",
+        "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC4%20-%20Evacuation%20Traces/dataset/VASTchallenge08-20080315-Deinosuchus.zip",
+        "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202008/challenges/MC4%20-%20Evacuation%20Traces/solution/Evacuation%20Traces_sol.zip"
+      }
+    ]
+  },
+  {
+    "Year": "2007",
+    "Title": "VAST Challenge 2007",
+    "Tag" : "VAST",
+    "Challenges":[
+    {
+      "Title" : "Vast Challenge 2007",
+      "Description" : "It is Fall of 2004 and one of your analyst colleagues has been called away from her current tasks to an emergency. The boss has given you the assignment of picking up her investigation and completing her task. She has been asked to pursue a line of investigation into some unexpected activities concerning wildlife law enforcement, endangered species issues, and ecoterrorism. This isn't exactly your specialty area, but your boss believes you are one of the few people who could get to the bottom of whatever is going on. In fact, you would have been given this investigation if you hadn't been busy on another assignment when your colleague had started. Your colleague hasn't gotten very far, but she has assembled all the data relevant to this case. It is a mixed assortment of information: text, images, numbers. The agency you work for is very accommodating -- you may use any analytical tool you need to help your investigations.",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTcontest07/",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202007/challenges/2007%20Contest/dataset/VASTCONTEST2007-RAW-Blueiggy20070228.zip",
+      "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202007/solutions/answer.pdf"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+        {
+          "Title" : "Mini-Challenge 1",
+          "Description" : "None",
+          "ReadMoreDescription": "None",
+          "DataSet": "None",
+          "Solution": "None"
+        },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "2006",
+    "Title": "VAST Challenge 2006",
+    "Tag" : "VAST",
+    "Challenges":[
+    {
+      "Title" : "Vast Challenge 2006",
+      "Description" : "Welcome to Alderwood, Washington, a fictitious American town in central Washington state.
+
+      The FBI has been tipped off to possible political shenanigans in the mid-sized vacation town of Alderwood. Use 1200 news stories and a few other sources of information to find out what happened",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/VASTcontest06/dataset.htm",
+      "DataSet": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202006/datasets/VASTCONTEST2006_Data_preprocessed_2007-02-15.zip",
+      "Solution": "http://visualdata.wustl.edu/varepository/VAST%20Challenge%202006/solutions/Answer-alderwood-public.htm"
+      },
+      {
+        "Title" : "Mini-Challenge 1",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+        {
+          "Title" : "Mini-Challenge 1",
+          "Description" : "None",
+          "ReadMoreDescription": "None",
+          "DataSet": "None",
+          "Solution": "None"
+        },
+      {
+        "Title" : "Mini-Challenge 3",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      },
+      {
+        "Title" : "Mini-Challenge 4",
+        "Description" : "None",
+        "ReadMoreDescription": "None",
+        "DataSet": "None",
+        "Solution": "None"
+      }]
+  },
+  {
+    "Year": "",
+    "Title": "University of North Carolina, Charlotte",
+    "Tag" : "Other",
+    "Challenges":[{
+      "Title" : "Analysis of Financial Transactions",
+      "Description" : "This dataset contains data about the financial transactions between various accounts. Its sanitized data from BOA. This data has embedded threats in it. Try to find out everything that is 'suspicious' or 'questionable.'",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/semvast/GTdatasets/FinancialTransactions/download.htm",
+      "DataSet": "http://www.cs.umd.edu/hcil/semvast/GTdatasets/FinancialTransactions/download.htm",
+      "Solution": "http://hcil.cs.umd.edu/localphp/hcil/vast10/index.php/solution"
+      }]
+  },
+  {
+    "Year": "",
+    "Title": "Purdue University",
+    "Tag" : "Other",
+    "Challenges":[{
+      "Title" : "Synthetic Syndromic Surveillance Data Creation Toolkit",
+      "Description" : "In order to effectively evaluate visual analytics techniques, standard test data sets must be created that require both high level and low level analysis where analysts find and communicate unexpected results while sifting through noise and other confounding factors. We have developed a novel system that allows users to generate non-aggregated synthetic data records from Emergency Departments using derived signal components from the Indiana Public Health Emergency Surveillance System. Our system synthesizes the daily, weekly and seasonal syndromic trends seen in Indiana Emergency Departments and allows users to inject outbreaks into the data, thereby creating a dataset in which analysts can be asked to solve a problem with a known solution, allowing for standard evaluations amongst various techniques. Data generated includes synthetic patient location and demographic information (age and gender) along with the Emergency Department chief complaint and chief complaint classification. Sample data sets are available for download.",
+      "ReadMoreDescription": "http://pixel.ecn.purdue.edu:8080/~rmacieje/SYDOVAT-web/",
+      "DataSet": "http://pixel.ecn.purdue.edu:8080/~rmacieje/SYDOVAT-web/",
+      "Solution": "No solution available"
+      }]
+  },
+  {
+    "Year": "2007",
+    "Title": "InfoVis Contest 2007",
+    "Tag" : "InfoVis",
+    "Challenges":[{
+      "Title" : "InfoVis Goes to the Movies",
+      "Description" : "All US movies released from 2000 to 2006 (around 20,000). Information can be missing, though all movies in the data base will at least have one director and one actor or actress. If there were no ratings from either IMDB or Netflix, the corresponding numRatings fields will be 0 (and the rating value meaningless). Box office earnings are reported as -1 if unknown. The exact release date can be missing, but the year is known for all movies. Lists of items (like genres, Oscars, cinematographers) will simply be empty if there are none.",
+      "ReadMoreDescription": "http://www.apl.jhu.edu/Misc/Visualization/tasks.html",
+      "DataSet": "http://eagereyes.org/InfoVisContest2007Data.html",
+      "Solution": "http://visualdata.wustl.edu/varepository/InfoVis%20Contest%202007/challenges/InfoVis%20Goes%20to%20the%20Movies/solution"
+      }]
+  },
+  {
+    "Year": "2006",
+    "Title": "InfoVis Contest 2006",
+    "Tag" : "InfoVis",
+    "Challenges":[{
+      "Title" : "Analysis of U.S. Census population data",
+      "Description" : "The contest data set consists of 1% of the results of the U.S. Census from 2000.",
+      "ReadMoreDescription": "http://sun.cs.lsus.edu/iv06/tasks.html",
+      "DataSet": "http://sun.cs.lsus.edu/iv06/signup.php",
+      "Solution": "No solution available"
+      }]
+  },
+  {
+    "Year": "2005",
+    "Title": "InfoVis Contest 2005",
+    "Tag" : "InfoVis",
+    "Challenges":[{
+      "Title" : "Technology Trends in the United States",
+      "Description" : "The data provided represents technology companies organized by year and year founded with location (city, state, zip), sales, employment, primary industry, and product types. The industry and product type classifications come from the North American Industry Classification System (NAICS).",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/InfovisRepository/contest-2005/info.html",
+      "DataSet": "No dataset available",
+      "Solution": "No solution available"
+      }]
+  },
+  {
+    "Year": "2004",
+    "Title": "InfoVis Contest 2004",
+    "Tag" : "InfoVis",
+    "Challenges":[{
+      "Title" : "The History of InfoVis",
+      "Description" : "The dataset contains complete metadata for all the papers of 8 years (1995-2002) of InfoVis Conference and their references. The year 2003 will be added as soon as ACM acquires it. The metadata includes publication title, authors, keywords, abstract, references, and links to original papers when available in the ACM Digital Library.",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/iv04contest/info.html",
+      "DataSet": "http://www.cs.umd.edu/hcil/iv04contest/register.html",
+      "Solution": "No solution available"
+      }]
+  },
+  {
+    "Year": "2003",
+    "Title": "InfoVis Contest 2003",
+    "Tag" : "InfoVis",
+    "Challenges":[{
+      "Title" : "Visualization and pair wise comparison of trees",
+      "Description" : "For each type of dataset we give a brief description of the type of tree it represents, background about the application domain and tasks one might encounter when analyzing the data. Of course we hope that this contest will help refine the list of tasks as you will probably find interesting facts in the data that do not fit any of the tasks we suggested...",
+      "ReadMoreDescription": "http://www.cs.umd.edu/hcil/iv03contest/datasets.html",
+      "DataSet": "http://www.cs.umd.edu/hcil/iv03contest/datasets.html",
+      "Solution": "No solution available"
+      }]
+  }
+
+
+]

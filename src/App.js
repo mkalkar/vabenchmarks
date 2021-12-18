@@ -16,6 +16,7 @@ import Detail from './Detail';
 //import Contact from './components/Contact';
 // import Error from './components/Error';
 import Navigation from './Navigation';
+import Description from './Description';
 //import pizzas frm ./data
 //import {Cards} from './components/Cards'
 
@@ -30,6 +31,7 @@ class App extends Component {
              <Route path="/about" component={About}/>
              <Route path="/benchmarks" component={Benchmarks}/>
              <Route path="/detail" component={Detail}/>
+             <Route path="/description" component={Description}/>
             <Route component={Error}/>
            </Switch>
         </div>
