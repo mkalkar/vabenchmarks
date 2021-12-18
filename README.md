@@ -1,3 +1,36 @@
+#Visual Analytics Benchmark Repository
+
+#This website structure:
+
+3 main pages - Home, Benchmarks, About
+2 sub-pages - Description and Detail
+Home.js: contains data sets from datasets.json. These are free datasets that can be viewed in an external window
+Benchmarks.js: Contains information about benchmarks. From here you can click on a challenge to get their sub challenges (in Detail page)
+Detail.js: shows the sub challenges of each benchmark. On click it takes you to the description page
+Description.js: Tells information about each challenge.
+About.js: Shares general information about the website
+
+
+#Information about the data:
+
+Benchmarks.json : Contains all the data for benchmarks: Vast Challenges, InfoVis, and other challenges. Not all data has images corresponding to it.
+
+Datasets.json: Contains all the data that is shown on the home page. These are external links and each has an image associated with them.
+The json file also contains a tag asset that can be used in the future for setting up searching or filtering
+
+
+#Known bugs:
+-back button does work when going from description page back from detail page
+-Some minor issues with formatting when switching into mobile view
+
+
+#Things for the future:
+-filter/search datasets
+-Not all data has a corresponding image. Leaves it blank when displaying it. This would be nice to eventually fill in
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
