@@ -28,6 +28,9 @@ The json file also contains a tag asset that can be used in the future for setti
 -filter/search datasets
 -Not all data has a corresponding image. Leaves it blank when displaying it. This would be nice to eventually fill in
 
+# Getting Started with Flask
+
+in terminal: navigate to "my-app/api"  and then enter ". venv/bin/activate". Then, type "flask run"
 
 
 
