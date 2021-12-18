@@ -1,6 +1,6 @@
-#Visual Analytics Benchmark Repository
+# Visual Analytics Benchmark Repository
 
-#This website structure:
+## This website structure:
 
 3 main pages - Home, Benchmarks, About
 2 sub-pages - Description and Detail
@@ -11,7 +11,7 @@ Description.js: Tells information about each challenge.
 About.js: Shares general information about the website
 
 
-#Information about the data:
+## Information about the data:
 
 Benchmarks.json : Contains all the data for benchmarks: Vast Challenges, InfoVis, and other challenges. Not all data has images corresponding to it.
 
@@ -19,12 +19,12 @@ Datasets.json: Contains all the data that is shown on the home page. These are e
 The json file also contains a tag asset that can be used in the future for setting up searching or filtering
 
 
-#Known bugs:
+## Known bugs:
 -back button does work when going from description page back from detail page
 -Some minor issues with formatting when switching into mobile view
 
 
-#Things for the future:
+## Things for the future:
 -filter/search datasets
 -Not all data has a corresponding image. Leaves it blank when displaying it. This would be nice to eventually fill in
 
